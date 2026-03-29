@@ -1,0 +1,5 @@
+What surprised me most while researching this topic:
+I was shocked to learn how sophisticated phishing scams have become. Many fake websites look identical to real bank pages, with only tiny URL differences (like using "googIe.com" with a capital "i" instead of "google.com"). I also didn't know that scams targeting students specifically use threats about "blocked scholarships" or "fee payment failures" to create panic.
+
+One habit I will personally change:
+I will now always verify URLs carefully before entering any credentials. I used to click links in emails without thinking, but now I understand that taking 5 seconds to check could save thousands of rupees. I'll also enable two-factor authentication on all my accounts immediately.
