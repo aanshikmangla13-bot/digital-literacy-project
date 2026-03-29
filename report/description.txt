@@ -1,1 +1,48 @@
+Tool used: Canva
+Date created: 29 march 2026 
 
+My infographic covers three main topics: safe internet practices, useful digital tools for students, and email etiquette. The design uses a clean, colorful layout to make information easily digestible for my batchmates. I found it interesting to learn how visual hierarchy can guide viewers' attention to the most important information first. The most difficult part was condensing complex topics into brief, impactful points without losing essential information.
+┌─────────────────────────────────┐
+│    DIGITAL LITERACY 101         │
+│    A Guide for VIT Students     │
+├─────────────────────────────────┤
+│                                  │
+│  WHAT IS DIGITAL LITERACY?       │
+│  • Ability to use digital tools  │
+│  • Critical evaluation of info   │
+│  • Safe online behavior          │
+│  • Professional communication    │
+│                                  │
+├─────────────────────────────────┤
+│  SAFE INTERNET PRACTICES         │
+│  ✓ Use strong passwords          │
+│  ✓ Enable 2-factor authentication│
+│  ✓ Don't share OTPs              │
+│  ✓ Verify before you click       │
+│  ✓ Log out from public computers │
+│                                  │
+├─────────────────────────────────┤
+│  DIGITAL TOOLS FOR STUDENTS      │
+│  ┌──────────┐ ┌──────────┐      │
+│  │  Canva   │ │  Google  │      │
+│  │(Present- │ │ Workspace│      │
+│  │  ations) │ │(Docs,Forms│      │
+│  └──────────┘ └──────────┘      │
+│  ┌──────────┐ ┌──────────┐      │
+│  │ GitHub   │ │ LinkedIn │      │
+│  │(Code &   │ │(Professional│    │
+│  │ Portfolio)│ │ Networking)│    │
+│  └──────────┘ └──────────┘      │
+│                                  │
+├─────────────────────────────────┤
+│  EMAIL ETIQUETTE TIPS            │
+│  • Clear subject lines           │
+│  • Professional greeting         │
+│  • Concise, respectful tone      │
+│  • Proofread before sending      │
+│  • Include proper signature      │
+│                                  │
+├─────────────────────────────────┤
+│    BE DIGITALLY SMART!           │
+│    #DigitalAmbassador           │
+└─────────────────────────────────┘
