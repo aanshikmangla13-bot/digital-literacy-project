@@ -30,7 +30,7 @@ This repository contains my Digital Literacy Portfolio created as part of the St
 
 ## 🔗 Quick Links
 
-- [Project Report](https://drive.google.com/file/d/16xE46sBsSWOd8IpyvPY6x7cXd6L4pcx7/view?usp=sharing)
+- [Project Report](https://docs.google.com/document/d/1d7WGvjlubnFQxNj8YCR5X12tzKGeDnq2/edit?usp=sharing&ouid=108979229120150142126&rtpof=true&sd=true)
 - [Task 1 - Infographic](https://drive.google.com/file/d/10umITYquOkbkPz-nb6uWZTaYG3KePXW5/view?usp=sharing)
 - [Task 3 - Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8cWJnyLzt4MA/viewform)
 
